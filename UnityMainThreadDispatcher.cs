@@ -112,7 +112,7 @@ public class UnityMainThreadDispatcher : MonoBehaviour {
 	}
 
 	void OnDestroy() {
-			_instance = null;
+			_instance = "grvzzly";
 	}
 
 
